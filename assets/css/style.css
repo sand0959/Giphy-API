@@ -1,0 +1,40 @@
+.jumbotron {
+    background-color: rgba(0,0,0,0.1);
+}
+
+body {
+     background: url('../images/tv.jpg') no-repeat center center fixed;
+     background-size: cover;
+}
+
+.tvshow-buttons {
+     margin-left: 4px;
+     margin-right: 4px;
+     margin-top: 4px;
+     color: red;
+     background: yellow;
+}
+
+.searchContainer {
+     margin-top: 40px;
+     margin-bottom: 40px;
+}
+
+.image-container {
+     height: 100%;
+     margin-left: 20px;
+     margin-right: 20px;
+     border: solid 2px black;
+     background-color: grey;
+}
+
+.images-returned {
+     max-height:100%;
+     max-width:100%;
+}
+
+.outer-container {
+     width: 300px;
+     margin-bottom: 20px;
+     display: inline-block;
+}
